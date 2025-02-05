@@ -43,7 +43,7 @@ As an **arcade** game at its core, **Retro Bowl Unblocked Games 76** delivers:
 ## How to Get Started
 
 1. **Visit the Repository:** Clone or download this repository to get the latest version of Retro Bowl Unblocked Games 76.
-2. **Read the Documentation:** Check out the [User Guide](https://classroom6xcool.com/) for detailed instructions on setup and gameplay.
+2. **Read the Documentation:** Check out the **User Guide** for detailed instructions on setup and gameplay.
 3. **Start Playing:** Launch the game in your preferred browser and dive into the action.
 4. **Contribute:** We welcome contributions! If you have ideas, bug fixes, or improvements, please submit a pull request.
 
