@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub page for **Retro Bowl Unblocked Games 76**—your gateway to a thrilling arcade football experience that’s accessible anytime, anywhere. Whether you’re at school, work, or home, this game lets you enjoy non-stop retro fun without restrictions.
 
-## <a href="https://classroom6xcool.com/retro-bowl.html">👉 Retro Bowl Unblocked Games 76 👈</a>
+## <a href="https://classroom-6x-unblocked.github.io/">👉 Retro Bowl Unblocked Games 76 👈</a>
 
 ![Retro Bowl Unblocked Games 76](https://github.com/user-attachments/assets/da074eb0-a83d-410e-8fd1-9d67c501fdf1)
 ---
